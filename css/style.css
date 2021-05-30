@@ -17,6 +17,8 @@ html {
 }
 .container {
   max-width: 1170px;
+  /* CONTAINER ДЛЯ РЕЗИНОВОЙ ВЕРСТКИ width: 1170px */
+  /* width: 1170px; */
   margin: auto;
   padding: 0 15px;
   /*КОНТЕЙНЕР ПЕРЕКРЫВАЕТ МАСКУ*/
@@ -35,3 +37,7 @@ section {
   height: 2px;
   background-color: orange;
 }
+/* BODY ДЛЯ РЕЗИНОВОЙ ВЕСТКИ min-width: 1170px */
+/* body {
+  min-width: 1170px;
+} */
