@@ -1,6 +1,5 @@
 .first-screen_section {
   width: 100%;
-
   padding: 108px 0 101px 0;
   background-image: url(/img/bg/background_firstscreen.png);
   background-repeat: no-repeat;
@@ -68,6 +67,7 @@
 .right_block {
   display: flex;
   justify-content: flex-end;
+  background-size: cover;
   width: 44%;
   margin: 0 15px;
   /*border: 2px solid white; /* ГРАНИЦА ЛЕВОГО БЛОКА*/
