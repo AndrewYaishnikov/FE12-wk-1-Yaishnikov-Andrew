@@ -152,6 +152,7 @@ input {
   border: 1px solid #ffffff;
   display: inline-block;
   transition: 0.3s;
+  background-color: rgba(165, 161, 161, 0);
 }
 .first-screen_button:hover {
   border: 1px solid rgb(190, 47, 47);
