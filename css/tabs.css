@@ -84,11 +84,10 @@
 }
 .tabs_btn {
   display: inline-block;
-  padding: 0.5em 1em;
+  padding: 0.5rem 1rem;
   border-radius: 7%;
   background-color: rgb(230, 39, 39);
   color: #ffffff;
-  display: inline-block;
   border: 0;
   transition: 0.3s;
   cursor: pointer;
